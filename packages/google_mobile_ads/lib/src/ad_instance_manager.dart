@@ -201,7 +201,7 @@ class AdInstanceManager {
         'request': rewardedAd.request,
         'publisherRequest': rewardedAd.publisherRequest,
         'serverSideVerificationOptions':
-          rewardedAd.serverSideVerificationOptions,
+            rewardedAd.serverSideVerificationOptions,
       },
     );
   }
